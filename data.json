@@ -1,0 +1,32 @@
+[
+    {
+        "message": "asdf",
+        "receiver": "o",
+        "sender": "a"
+    },
+    {
+        "message": "asdf",
+        "receiver": "m",
+        "sender": "a"
+    },
+    {
+        "message": "qwerty",
+        "receiver": "m",
+        "sender": "a"
+    },
+    {
+        "message": "hjk",
+        "receiver": "o",
+        "sender": "m"
+    },
+    {
+        "message": "hjk",
+        "receiver": "a",
+        "sender": "m"
+    },
+    {
+        "message": "yuop",
+        "receiver": "m",
+        "sender": "a"
+    }
+]
