@@ -41,7 +41,7 @@ ___Каждый из зарегистрированных пользовател
       - подключение пользователя к чату : void attach (IObserver* observer) override;
       - отсоединение пользователя от чата : void detach (IObserver* observer) override;
       - рассылка сообщений другим пользователям чата : void notify(IObserver* sender, char event) override;
-5. Класс Messages позволяет хранить все сообщения чата.
+5. Класс Messages позволяет хранить все сообщения чата в JSON файле.
 6. В проекте реализованы:
       - Абстрактные классы: IObserver, ISubject.
       - Шаблонный класс Messages.
